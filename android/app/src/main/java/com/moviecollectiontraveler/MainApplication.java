@@ -1,4 +1,4 @@
-package com.reactnativeapp;
+package com.moviecollectiontraveler;
 
 import android.app.Application;
 import android.content.Context;
