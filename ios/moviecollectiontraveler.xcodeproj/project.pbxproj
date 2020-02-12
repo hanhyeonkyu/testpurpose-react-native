@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* ReactNativeAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNativeAppTests.m */; };
+		00E356F31AD99517003FC87E /* moviecollectiontravelerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* moviecollectiontravelerTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -15,11 +15,11 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* ReactNativeAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNativeAppTests.m */; };
-		519FC83156E3280B6CDE91CA /* libPods-ReactNativeApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B580879A2C9EAD840FC61F5F /* libPods-ReactNativeApp-tvOS.a */; };
-		772E4643C2650149C4F93AF1 /* libPods-ReactNativeApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 952C7183A306717754078059 /* libPods-ReactNativeApp.a */; };
-		AE05734B25D1361E880AFE2B /* libPods-ReactNativeAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 093E96E1BE4D5E65E1BAA695 /* libPods-ReactNativeAppTests.a */; };
-		EAD7544C3FA22B1C24049004 /* libPods-ReactNativeApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B055943DE903DC516E77100C /* libPods-ReactNativeApp-tvOSTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* moviecollectiontravelerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* moviecollectiontravelerTests.m */; };
+		519FC83156E3280B6CDE91CA /* libPods-moviecollectiontraveler-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B580879A2C9EAD840FC61F5F /* libPods-moviecollectiontraveler-tvOS.a */; };
+		772E4643C2650149C4F93AF1 /* libPods-moviecollectiontraveler.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 952C7183A306717754078059 /* libPods-moviecollectiontraveler.a */; };
+		AE05734B25D1361E880AFE2B /* libPods-moviecollectiontravelerTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 093E96E1BE4D5E65E1BAA695 /* libPods-moviecollectiontravelerTests.a */; };
+		EAD7544C3FA22B1C24049004 /* libPods-moviecollectiontraveler-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B055943DE903DC516E77100C /* libPods-moviecollectiontraveler-tvOSTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,43 +28,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = ReactNativeApp;
+			remoteInfo = moviecollectiontraveler;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "ReactNativeApp-tvOS";
+			remoteInfo = "moviecollectiontraveler-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* ReactNativeAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReactNativeAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* moviecollectiontravelerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = moviecollectiontravelerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* ReactNativeAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactNativeAppTests.m; sourceTree = "<group>"; };
-		093E96E1BE4D5E65E1BAA695 /* libPods-ReactNativeAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* ReactNativeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactNativeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReactNativeApp/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReactNativeApp/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* moviecollectiontravelerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = moviecollectiontravelerTests.m; sourceTree = "<group>"; };
+		093E96E1BE4D5E65E1BAA695 /* libPods-moviecollectiontravelerTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-moviecollectiontravelerTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* moviecollectiontraveler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = moviecollectiontraveler.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = moviecollectiontraveler/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = moviecollectiontraveler/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ReactNativeApp/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ReactNativeApp/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReactNativeApp/main.m; sourceTree = "<group>"; };
-		1BB96434E47840315BC6437C /* Pods-ReactNativeApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeApp.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeApp/Pods-ReactNativeApp.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* ReactNativeApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ReactNativeApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* ReactNativeApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ReactNativeApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		55DB38DBB9A23A9242B83126 /* Pods-ReactNativeApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeApp-tvOSTests/Pods-ReactNativeApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		6799FF4BBACECE632B7358E2 /* Pods-ReactNativeApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeApp.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeApp/Pods-ReactNativeApp.release.xcconfig"; sourceTree = "<group>"; };
-		8EA3176A501D33DBF56071C7 /* Pods-ReactNativeAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeAppTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeAppTests/Pods-ReactNativeAppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		952C7183A306717754078059 /* libPods-ReactNativeApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B055943DE903DC516E77100C /* libPods-ReactNativeApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B0DD2F7934B61CADE9E76423 /* Pods-ReactNativeApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeApp-tvOSTests/Pods-ReactNativeApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B580879A2C9EAD840FC61F5F /* libPods-ReactNativeApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BB3EEDFCF604BD88BDBC5A19 /* Pods-ReactNativeApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeApp-tvOS/Pods-ReactNativeApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		C9FB155A0E5F40A534E1E91A /* Pods-ReactNativeApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeApp-tvOS/Pods-ReactNativeApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		D54CFA9E851C47E8A6374FCA /* Pods-ReactNativeAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeAppTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeAppTests/Pods-ReactNativeAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = moviecollectiontraveler/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = moviecollectiontraveler/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = moviecollectiontraveler/main.m; sourceTree = "<group>"; };
+		1BB96434E47840315BC6437C /* Pods-moviecollectiontraveler.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontraveler.debug.xcconfig"; path = "Target Support Files/Pods-moviecollectiontraveler/Pods-moviecollectiontraveler.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* moviecollectiontraveler-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "moviecollectiontraveler-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* moviecollectiontraveler-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "moviecollectiontraveler-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		55DB38DBB9A23A9242B83126 /* Pods-moviecollectiontraveler-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontraveler-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-moviecollectiontraveler-tvOSTests/Pods-moviecollectiontraveler-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		6799FF4BBACECE632B7358E2 /* Pods-moviecollectiontraveler.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontraveler.release.xcconfig"; path = "Target Support Files/Pods-moviecollectiontraveler/Pods-moviecollectiontraveler.release.xcconfig"; sourceTree = "<group>"; };
+		8EA3176A501D33DBF56071C7 /* Pods-moviecollectiontravelerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontravelerTests.debug.xcconfig"; path = "Target Support Files/Pods-moviecollectiontravelerTests/Pods-moviecollectiontravelerTests.debug.xcconfig"; sourceTree = "<group>"; };
+		952C7183A306717754078059 /* libPods-moviecollectiontraveler.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-moviecollectiontraveler.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B055943DE903DC516E77100C /* libPods-moviecollectiontraveler-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-moviecollectiontraveler-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0DD2F7934B61CADE9E76423 /* Pods-moviecollectiontraveler-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontraveler-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-moviecollectiontraveler-tvOSTests/Pods-moviecollectiontraveler-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B580879A2C9EAD840FC61F5F /* libPods-moviecollectiontraveler-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-moviecollectiontraveler-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB3EEDFCF604BD88BDBC5A19 /* Pods-moviecollectiontraveler-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontraveler-tvOS.release.xcconfig"; path = "Target Support Files/Pods-moviecollectiontraveler-tvOS/Pods-moviecollectiontraveler-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		C9FB155A0E5F40A534E1E91A /* Pods-moviecollectiontraveler-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontraveler-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-moviecollectiontraveler-tvOS/Pods-moviecollectiontraveler-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		D54CFA9E851C47E8A6374FCA /* Pods-moviecollectiontravelerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-moviecollectiontravelerTests.release.xcconfig"; path = "Target Support Files/Pods-moviecollectiontravelerTests/Pods-moviecollectiontravelerTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE05734B25D1361E880AFE2B /* libPods-ReactNativeAppTests.a in Frameworks */,
+				AE05734B25D1361E880AFE2B /* libPods-moviecollectiontravelerTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				772E4643C2650149C4F93AF1 /* libPods-ReactNativeApp.a in Frameworks */,
+				772E4643C2650149C4F93AF1 /* libPods-moviecollectiontraveler.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				519FC83156E3280B6CDE91CA /* libPods-ReactNativeApp-tvOS.a in Frameworks */,
+				519FC83156E3280B6CDE91CA /* libPods-moviecollectiontraveler-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EAD7544C3FA22B1C24049004 /* libPods-ReactNativeApp-tvOSTests.a in Frameworks */,
+				EAD7544C3FA22B1C24049004 /* libPods-moviecollectiontraveler-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* ReactNativeAppTests */ = {
+		00E356EF1AD99517003FC87E /* moviecollectiontravelerTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* ReactNativeAppTests.m */,
+				00E356F21AD99517003FC87E /* moviecollectiontravelerTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = ReactNativeAppTests;
+			path = moviecollectiontravelerTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* ReactNativeApp */ = {
+		13B07FAE1A68108700A75B9A /* moviecollectiontraveler */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = ReactNativeApp;
+			name = moviecollectiontraveler;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				952C7183A306717754078059 /* libPods-ReactNativeApp.a */,
-				B580879A2C9EAD840FC61F5F /* libPods-ReactNativeApp-tvOS.a */,
-				B055943DE903DC516E77100C /* libPods-ReactNativeApp-tvOSTests.a */,
-				093E96E1BE4D5E65E1BAA695 /* libPods-ReactNativeAppTests.a */,
+				952C7183A306717754078059 /* libPods-moviecollectiontraveler.a */,
+				B580879A2C9EAD840FC61F5F /* libPods-moviecollectiontraveler-tvOS.a */,
+				B055943DE903DC516E77100C /* libPods-moviecollectiontraveler-tvOSTests.a */,
+				093E96E1BE4D5E65E1BAA695 /* libPods-moviecollectiontravelerTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* ReactNativeApp */,
+				13B07FAE1A68108700A75B9A /* moviecollectiontraveler */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* ReactNativeAppTests */,
+				00E356EF1AD99517003FC87E /* moviecollectiontravelerTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				DD672D26A710DFFFE3690356 /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* ReactNativeApp.app */,
-				00E356EE1AD99517003FC87E /* ReactNativeAppTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* ReactNativeApp-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* ReactNativeApp-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* moviecollectiontraveler.app */,
+				00E356EE1AD99517003FC87E /* moviecollectiontravelerTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* moviecollectiontraveler-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* moviecollectiontraveler-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		DD672D26A710DFFFE3690356 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1BB96434E47840315BC6437C /* Pods-ReactNativeApp.debug.xcconfig */,
-				6799FF4BBACECE632B7358E2 /* Pods-ReactNativeApp.release.xcconfig */,
-				C9FB155A0E5F40A534E1E91A /* Pods-ReactNativeApp-tvOS.debug.xcconfig */,
-				BB3EEDFCF604BD88BDBC5A19 /* Pods-ReactNativeApp-tvOS.release.xcconfig */,
-				B0DD2F7934B61CADE9E76423 /* Pods-ReactNativeApp-tvOSTests.debug.xcconfig */,
-				55DB38DBB9A23A9242B83126 /* Pods-ReactNativeApp-tvOSTests.release.xcconfig */,
-				8EA3176A501D33DBF56071C7 /* Pods-ReactNativeAppTests.debug.xcconfig */,
-				D54CFA9E851C47E8A6374FCA /* Pods-ReactNativeAppTests.release.xcconfig */,
+				1BB96434E47840315BC6437C /* Pods-moviecollectiontraveler.debug.xcconfig */,
+				6799FF4BBACECE632B7358E2 /* Pods-moviecollectiontraveler.release.xcconfig */,
+				C9FB155A0E5F40A534E1E91A /* Pods-moviecollectiontraveler-tvOS.debug.xcconfig */,
+				BB3EEDFCF604BD88BDBC5A19 /* Pods-moviecollectiontraveler-tvOS.release.xcconfig */,
+				B0DD2F7934B61CADE9E76423 /* Pods-moviecollectiontraveler-tvOSTests.debug.xcconfig */,
+				55DB38DBB9A23A9242B83126 /* Pods-moviecollectiontraveler-tvOSTests.release.xcconfig */,
+				8EA3176A501D33DBF56071C7 /* Pods-moviecollectiontravelerTests.debug.xcconfig */,
+				D54CFA9E851C47E8A6374FCA /* Pods-moviecollectiontravelerTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -200,9 +200,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* ReactNativeAppTests */ = {
+		00E356ED1AD99517003FC87E /* moviecollectiontravelerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNativeAppTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "moviecollectiontravelerTests" */;
 			buildPhases = (
 				485347FA05FD94B9FB7540F3 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -214,14 +214,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = ReactNativeAppTests;
-			productName = ReactNativeAppTests;
-			productReference = 00E356EE1AD99517003FC87E /* ReactNativeAppTests.xctest */;
+			name = moviecollectiontravelerTests;
+			productName = moviecollectiontravelerTests;
+			productReference = 00E356EE1AD99517003FC87E /* moviecollectiontravelerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* ReactNativeApp */ = {
+		13B07F861A680F5B00A75B9A /* moviecollectiontraveler */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNativeApp" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "moviecollectiontraveler" */;
 			buildPhases = (
 				F6986831543311B415F5E17B /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -234,14 +234,14 @@
 			);
 			dependencies = (
 			);
-			name = ReactNativeApp;
-			productName = ReactNativeApp;
-			productReference = 13B07F961A680F5B00A75B9A /* ReactNativeApp.app */;
+			name = moviecollectiontraveler;
+			productName = moviecollectiontraveler;
+			productReference = 13B07F961A680F5B00A75B9A /* moviecollectiontraveler.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* ReactNativeApp-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* moviecollectiontraveler-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeApp-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "moviecollectiontraveler-tvOS" */;
 			buildPhases = (
 				9A28E30F0F551E52FE2D59D5 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -254,14 +254,14 @@
 			);
 			dependencies = (
 			);
-			name = "ReactNativeApp-tvOS";
-			productName = "ReactNativeApp-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* ReactNativeApp-tvOS.app */;
+			name = "moviecollectiontraveler-tvOS";
+			productName = "moviecollectiontraveler-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* moviecollectiontraveler-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* ReactNativeApp-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* moviecollectiontraveler-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeApp-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "moviecollectiontraveler-tvOSTests" */;
 			buildPhases = (
 				475DF458317878026B3DB2EB /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -273,9 +273,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "ReactNativeApp-tvOSTests";
-			productName = "ReactNativeApp-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* ReactNativeApp-tvOSTests.xctest */;
+			name = "moviecollectiontraveler-tvOSTests";
+			productName = "moviecollectiontraveler-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* moviecollectiontraveler-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -306,7 +306,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactNativeApp" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "moviecollectiontraveler" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -320,10 +320,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* ReactNativeApp */,
-				00E356ED1AD99517003FC87E /* ReactNativeAppTests */,
-				2D02E47A1E0B4A5D006451C7 /* ReactNativeApp-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* ReactNativeApp-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* moviecollectiontraveler */,
+				00E356ED1AD99517003FC87E /* moviecollectiontravelerTests */,
+				2D02E47A1E0B4A5D006451C7 /* moviecollectiontraveler-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* moviecollectiontraveler-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -406,7 +406,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ReactNativeApp-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-moviecollectiontraveler-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -428,7 +428,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ReactNativeAppTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-moviecollectiontravelerTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -450,7 +450,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ReactNativeApp-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-moviecollectiontraveler-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -472,7 +472,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ReactNativeApp-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-moviecollectiontraveler-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -524,7 +524,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* ReactNativeAppTests.m in Sources */,
+				00E356F31AD99517003FC87E /* moviecollectiontravelerTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -550,7 +550,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* ReactNativeAppTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* moviecollectiontravelerTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -559,12 +559,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* ReactNativeApp */;
+			target = 13B07F861A680F5B00A75B9A /* moviecollectiontraveler */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* ReactNativeApp-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* moviecollectiontraveler-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -576,7 +576,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = ReactNativeApp;
+			path = moviecollectiontraveler;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -584,7 +584,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8EA3176A501D33DBF56071C7 /* Pods-ReactNativeAppTests.debug.xcconfig */;
+			baseConfigurationReference = 8EA3176A501D33DBF56071C7 /* Pods-moviecollectiontravelerTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Manual;
@@ -593,7 +593,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactNativeAppTests/Info.plist;
+				INFOPLIST_FILE = moviecollectiontravelerTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -605,19 +605,19 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeApp.app/ReactNativeApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/moviecollectiontraveler.app/moviecollectiontraveler";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D54CFA9E851C47E8A6374FCA /* Pods-ReactNativeAppTests.release.xcconfig */;
+			baseConfigurationReference = D54CFA9E851C47E8A6374FCA /* Pods-moviecollectiontravelerTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = ReactNativeAppTests/Info.plist;
+				INFOPLIST_FILE = moviecollectiontravelerTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -629,20 +629,20 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeApp.app/ReactNativeApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/moviecollectiontraveler.app/moviecollectiontraveler";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1BB96434E47840315BC6437C /* Pods-ReactNativeApp.debug.xcconfig */;
+			baseConfigurationReference = 1BB96434E47840315BC6437C /* Pods-moviecollectiontraveler.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = ReactNativeApp/Info.plist;
+				INFOPLIST_FILE = moviecollectiontraveler/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -651,7 +651,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = ReactNativeApp;
+				PRODUCT_NAME = moviecollectiontraveler;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -659,13 +659,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6799FF4BBACECE632B7358E2 /* Pods-ReactNativeApp.release.xcconfig */;
+			baseConfigurationReference = 6799FF4BBACECE632B7358E2 /* Pods-moviecollectiontraveler.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = ReactNativeApp/Info.plist;
+				INFOPLIST_FILE = moviecollectiontraveler/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -674,7 +674,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = ReactNativeApp;
+				PRODUCT_NAME = moviecollectiontraveler;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -682,7 +682,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C9FB155A0E5F40A534E1E91A /* Pods-ReactNativeApp-tvOS.debug.xcconfig */;
+			baseConfigurationReference = C9FB155A0E5F40A534E1E91A /* Pods-moviecollectiontraveler-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -693,14 +693,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ReactNativeApp-tvOS/Info.plist";
+				INFOPLIST_FILE = "moviecollectiontraveler-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactNativeApp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.moviecollectiontraveler-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -710,7 +710,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BB3EEDFCF604BD88BDBC5A19 /* Pods-ReactNativeApp-tvOS.release.xcconfig */;
+			baseConfigurationReference = BB3EEDFCF604BD88BDBC5A19 /* Pods-moviecollectiontraveler-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -721,14 +721,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ReactNativeApp-tvOS/Info.plist";
+				INFOPLIST_FILE = "moviecollectiontraveler-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactNativeApp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.moviecollectiontraveler-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -738,7 +738,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B0DD2F7934B61CADE9E76423 /* Pods-ReactNativeApp-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = B0DD2F7934B61CADE9E76423 /* Pods-moviecollectiontraveler-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -748,24 +748,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ReactNativeApp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "moviecollectiontraveler-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactNativeApp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.moviecollectiontraveler-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeApp-tvOS.app/ReactNativeApp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/moviecollectiontraveler-tvOS.app/moviecollectiontraveler-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 55DB38DBB9A23A9242B83126 /* Pods-ReactNativeApp-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 55DB38DBB9A23A9242B83126 /* Pods-moviecollectiontraveler-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -775,17 +775,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "ReactNativeApp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "moviecollectiontraveler-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactNativeApp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.moviecollectiontraveler-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeApp-tvOS.app/ReactNativeApp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/moviecollectiontraveler-tvOS.app/moviecollectiontraveler-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -892,7 +892,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNativeAppTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "moviecollectiontravelerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -901,7 +901,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNativeApp" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "moviecollectiontraveler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -910,7 +910,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeApp-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "moviecollectiontraveler-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -919,7 +919,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeApp-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "moviecollectiontraveler-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -928,7 +928,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactNativeApp" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "moviecollectiontraveler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

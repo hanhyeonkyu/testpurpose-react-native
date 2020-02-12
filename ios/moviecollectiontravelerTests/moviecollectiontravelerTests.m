@@ -14,11 +14,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ReactNativeAppTests : XCTestCase
+@interface moviecollectiontravelerTests : XCTestCase
 
 @end
 
-@implementation ReactNativeAppTests
+@implementation moviecollectiontravelerTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
